@@ -1,7 +1,7 @@
 <?php
 /**
  * Author: Firoz Ahmad Likhon <likh.deshi@gmail.com>
- * Website: https://github.com/likhonlikh
+ * Website: https://github.com/firoz-ahmad-likhon
  *
  * Copyright (c) 2018 Firoz Ahmad Likhon
  * Released under the MIT license
